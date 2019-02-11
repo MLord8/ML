@@ -1,6 +1,8 @@
 All of the algorithms are performed using the software Weka.
 
-Datasets/files are located at this link: https://github.com/MLord8/ML
+Datasets/result files are located at this link:
+
+https://github.com/MLord8/ML/assignment1
 
 Given a .arff file (e.g., spambase.arff), we need to split it into testing and training data, and then we need to split the training data into 10, 20, 30, ... , 90 percent files for analysis of the algorithms compared to the training set size. 
 
